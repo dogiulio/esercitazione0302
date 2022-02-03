@@ -8,6 +8,7 @@
 </head>
 <body>
 
+<p>hello</p>
 <form action="visualizza.jsp" method="post" >
 
 <input type="text" name="cognome" />
