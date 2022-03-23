@@ -2,6 +2,7 @@
     pageEncoding="ISO-8859-1"%>
 <%@page import = "java.util.*" %>
 <%@page import = "entita.*" %>
+<%@page import = "com.google.gson" %>
 <!DOCTYPE html>
 <html>
 <head>
